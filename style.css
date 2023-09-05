@@ -1,0 +1,71 @@
+.bg-banner {
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.intro {
+    text-align: center;
+    padding: 2rem;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.beauty {
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}
+
+.linked-nature {
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.area-visiting {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.list {
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+#second-value {
+    border: 1px rgb(247, 69, 69) solid;
+    background-color: rgb(228, 184, 169);
+}
+
+#amount {
+    color: gray;
+
+}
+
+hr {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #2e4466;
+    color: white;
+}
